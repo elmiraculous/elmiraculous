@@ -49,7 +49,7 @@
 
 
 ##
-### About my projects in C >**
+### About my projects in C
 -**<a href="https://github.com/elmiraculous/Ping_pong">Ping pong</a>** 
 implementation of the game of ping pong.
 
