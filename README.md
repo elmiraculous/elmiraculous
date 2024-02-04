@@ -52,7 +52,8 @@
 -**<a href="https://github.com/elmiraculous/Ping_pong">Ping pong</a>** 
 implementation of the game of ping pong in C
 
--**<a href="https://github.com/Elmira7/rentroom">Cat and grep</a>**
+-**<a href="https://github.com/elmiraculous/cat_and_grep">Cat and grep</a>** 
+Development of Bash utilities for working with text: cat, grep.
 
 -**<a href="https://github.com/Elmira7/react-project">Math</a>**
 
