@@ -36,12 +36,32 @@
 
 
 
-### About my projects :clipboard:
+
+
+### About my projects in Frontend :clipboard:
 -**<a href="https://github.com/Elmira7/rentroom">RentRoom</a>** service for interaction between tenants and landlords (in the process)
 
 -**<a href="https://github.com/Elmira7/react-project">EcoRus</a>** educational project on React (in the process)
 
 -**<a href="https://github.com/Elmira7/Frontend">SaaSto</a>** landing
+
+
+
+
+### About my projects in **<a href="https://21-school.ru/">school 21</a>** :clipboard:
+-**<a href="https://github.com/elmiraculous/Ping_pong">Ping pong</a>** 
+implementation of the game of ping pong in C
+
+-**<a href="https://github.com/Elmira7/rentroom">Cat and grep</a>**
+
+-**<a href="https://github.com/Elmira7/react-project">Math</a>**
+
+
+
+
+
+
+
 
 
 
