@@ -21,7 +21,7 @@
 
   ## :woman_technologist: About me
  
-### :man_student Education:
+### :man_student: Education:
 - I'm styding in third course of software engineering **<a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>**
 - I have completed a Frontend course from  **<a href="https://technokratos.com/agona?ysclid=lixqn4g3im930901433">Technocracy</a>**
 - I study at **<a href="https://21-school.ru/">school 21</a>**
