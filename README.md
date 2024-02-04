@@ -40,23 +40,24 @@
 
 
 ### About my projects in Frontend :clipboard:
--**<a href="https://github.com/Elmira7/rentroom">RentRoom</a>** service for interaction between tenants and landlords (in the process)
+-**<a href="https://github.com/elmiraculous/rentroom">RentRoom</a>** service for interaction between tenants and landlords (in the process)
 
--**<a href="https://github.com/Elmira7/react-project">EcoRus</a>** educational project on React (in the process)
+-**<a href="https://github.com/elmiraculous/react-project">EcoRus</a>** educational project on React (in the process)
 
--**<a href="https://github.com/Elmira7/Frontend">SaaSto</a>** landing
+-**<a href="https://github.com/elmiraculous/Frontend">SaaSto</a>** landing
 
 
 
 ##
-### About my projects in **<a href="https://21-school.ru/">school 21</a>** :clipboard:
+### About my projects in **<a href="https://21-school.ru/">school 21</a>**
 -**<a href="https://github.com/elmiraculous/Ping_pong">Ping pong</a>** 
 implementation of the game of ping pong in C
 
 -**<a href="https://github.com/elmiraculous/cat_and_grep">Cat and grep</a>** 
-Development of Bash utilities for working with text: cat, grep.
+development of Bash utilities for working with text: cat, grep in C.
 
--**<a href="https://github.com/Elmira7/react-project">Math</a>**
+-**<a href="https://github.com/elmiraculous/math">Math</a>**
+implementation of your own version of the math.h library in C.(teamwork)
 
 
 
@@ -83,5 +84,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+
+ ##
  ### Support:
 <p><a href="https://www.buymeacoffee.com/Elmira7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elmira7" /></a></p><br><br>
