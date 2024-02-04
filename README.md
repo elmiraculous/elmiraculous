@@ -49,15 +49,15 @@
 
 
 ##
-### About my projects in **<a href="https://21-school.ru/">school 21</a>**
+### About my projects in C >**
 -**<a href="https://github.com/elmiraculous/Ping_pong">Ping pong</a>** 
-implementation of the game of ping pong in C
+implementation of the game of ping pong.
 
 -**<a href="https://github.com/elmiraculous/cat_and_grep">Cat and grep</a>** 
-development of Bash utilities for working with text: cat, grep in C.
+development of Bash utilities for working with text: cat, grep.
 
 -**<a href="https://github.com/elmiraculous/math">Math</a>**
-implementation of your own version of the math.h library in C.(teamwork)
+implementation of your own version of the math.h library.(teamwork)
 
 
 
