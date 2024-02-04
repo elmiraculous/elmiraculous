@@ -27,6 +27,7 @@
 - I study at **<a href="https://21-school.ru/">school 21</a>**
 <!-- ### BIO :notebook:	 -->
 
+##
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
@@ -35,7 +36,7 @@
 </p>
 
 
-
+##
 
 
 ### About my projects in Frontend :clipboard:
