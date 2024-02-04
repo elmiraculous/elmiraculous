@@ -47,7 +47,7 @@
 
 
 
-
+##
 ### About my projects in **<a href="https://21-school.ru/">school 21</a>** :clipboard:
 -**<a href="https://github.com/elmiraculous/Ping_pong">Ping pong</a>** 
 implementation of the game of ping pong in C
